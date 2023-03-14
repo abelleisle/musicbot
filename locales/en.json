@@ -16,6 +16,11 @@
   "invite": {
     "description": "Send bot invite link"
   },
+  "leave": {
+    "description": "Stops the music and disconnects the bot",
+    "errorNotQueue": "There is nothing playing.",
+    "result": "🎶 Disconnected!"
+  },
   "loop": {
     "description": "Toggle music loop",
     "errorNotQueue": "There is nothing playing.",
