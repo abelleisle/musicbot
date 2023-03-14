@@ -4,9 +4,9 @@ import { i18n } from "../utils/i18n";
 import { canModifyQueue } from "../utils/queue";
 
 export default {
-    name: "leave",
-    aliases: ["dc"],
-    description: i18n.__("leave.description"),
+    data: new SlashCommandBuilder()
+        .setName("leave")
+        .setDescription(i18n.__("leave.description")),
     execute(message: Message) {
         const queue = bot.queues.get(message.guild!.id);
 
