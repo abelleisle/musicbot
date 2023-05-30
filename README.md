@@ -2,7 +2,7 @@
 
 This is a stub mirror. The full source code for this commit is at:
 
-https://git.bitcicle.com/andy/musicbot/src/commit/a73e1ea555e7215ee3b7637572ed3e303a8647aa
+https://git.bitcicle.com/andy/musicbot/src/commit/05529e1b0ca381c2211429aac44440e9cdba537c
 
 To browse or clone the full repository, visit:
 
